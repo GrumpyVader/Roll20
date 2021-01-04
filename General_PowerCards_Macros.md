@@ -17,8 +17,6 @@ If you would prefer to see the macro button along the bottom of the screen, when
 ## Character Sheet
 When you open your character sheet, along the top you have 3 tabs, one of them being Attributes & Abilities. Click on the Attributes & Abilities tab. In the Abilities section, click on the [+Add] button to create a new macro then move your mouse over the "New Ability 0" and then click on the little pencil icon. This will place you in Edit mode where you can specify the name of the macro and paste the macro code. Once done, click on the Checkmark to save it. Once saved, you can Check On the "Show in Macro Bar" and or "Show as Token Action".
 
-**Table of contents**
-[[TOC]]
 
 ## Initiative, Death and Fumble Rolls
 
