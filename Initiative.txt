@@ -1,8 +1,0 @@
-!power {{
- --titlefontshadow|none
- --name|Initiative
- --tokenid|@{selected|token_id}
- --emote|@{selected|character_name} prepares for battle ...
- --Roll:|[[ [NH|TRKR] 1d20 + @{selected|initiative_bonus}[INIT] ]]
- --:EndOfCard|
-}}
